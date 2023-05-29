@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+h2{
+    background-color: aquamarine;
+    color: brown;
+    text-align: center;
+    padding: 5px;
+}
+button{
+    border-radius: 5px;
+    border-color: brown;
+    background-color: rgb(251, 106, 169);
+    padding: 10px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+}
